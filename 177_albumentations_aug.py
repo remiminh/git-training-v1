@@ -2,7 +2,7 @@
 """
 @author: Sreenivas Bhattiprolu
 """
-
+# This script performs data augmentation on images and masks using the Albumentations library.
 import numpy as np
 from matplotlib import pyplot as plt
 from skimage.transform import AffineTransform, warp
